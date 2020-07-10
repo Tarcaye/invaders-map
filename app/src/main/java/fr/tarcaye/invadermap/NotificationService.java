@@ -1,8 +1,11 @@
 package fr.tarcaye.invadermap;
 
-import com.google.firebase.messaging.FirebaseMessagingService;
+import android.util.Log;
 
-public class NotificationsService extends FirebaseMessagingService {
+import com.google.firebase.messaging.FirebaseMessagingService;
+import com.google.firebase.messaging.RemoteMessage;
+
+class NotificationsService extends FirebaseMessagingService {
 
         @Override
         public void onMessageReceived(RemoteMessage remoteMessage) {
