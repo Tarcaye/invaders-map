@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "1051366172455",
+    "firebase_url": "https://projet-epc-dev.firebaseio.com",
+    "project_id": "projet-epc-dev",
+    "storage_bucket": "projet-epc-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051366172455:android:73231399c6828491fd6b02",
+        "android_client_info": {
+          "package_name": "fr.nexity.epc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1051366172455-2bc052ff8qhgdoe2pf1jnd8fj9tlggma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbSMVWcrNgYPOhkL1Q9r9eOJ2wA0KRTE4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1051366172455-2bc052ff8qhgdoe2pf1jnd8fj9tlggma.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1051366172455-u8cqogvhuj94s4sf2vee0greeuvetenm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nexity.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051366172455:android:f60613213b1b1a3dfd6b02",
+        "android_client_info": {
+          "package_name": "fr.tarcaye.invadermap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1051366172455-2bc052ff8qhgdoe2pf1jnd8fj9tlggma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbSMVWcrNgYPOhkL1Q9r9eOJ2wA0KRTE4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1051366172455-2bc052ff8qhgdoe2pf1jnd8fj9tlggma.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1051366172455-u8cqogvhuj94s4sf2vee0greeuvetenm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nexity.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
